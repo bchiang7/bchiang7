@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **bchiang7/bchiang7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github.com/bchiang7/bchiang7/blob/main/ihavenoideawhatimdoing.jpg?raw=true" alt="Bailey the golden retriever has no idea what she's doing and neither do I" width="100%">
