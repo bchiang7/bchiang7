@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/bchiang7/bchiang7/blob/main/ihavenoideawhatimdoing.jpg?raw=true" alt="Bailey the golden retriever has no idea what she's doing and neither do I" width="100%">
+<img src="https://github.com/bchiang7/bchiang7/blob/main/ihavenoideawhatimdoing.jpg?raw=true" alt="Bailey the golden retriever has no idea what she's doing and neither do I" />
