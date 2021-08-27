@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/bchiang7/bchiang7/blob/main/ihavenoideawhatimdoing.jpg?raw=true" alt="Bailey the golden retriever has no idea what she's doing and neither do I" />
+## ✨ Check out my new course: [Build a Spotify Connected App](https://newline.co/courses/build-a-spotify-connected-app) ✨
+
+This course covers everything you need to build a web app with the Spotify API using Node & React.
+
+👉 https://www.newline.co/courses/build-a-spotify-connected-app
+
+![course-card](https://user-images.githubusercontent.com/6599979/131181753-1a256c55-80c1-4cb8-85d3-2099f8f11f93.png)
+
+
+<!-- <img src="https://github.com/bchiang7/bchiang7/blob/main/ihavenoideawhatimdoing.jpg?raw=true" alt="Bailey the golden retriever has no idea what she's doing and neither do I" /> -->
